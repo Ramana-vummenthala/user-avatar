@@ -1,0 +1,32 @@
+.avatar,
+.avatar-img {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  color: white;
+  background-color: #3f51b5;
+}
+
+.circle {
+  border-radius: 50%;
+}
+.square {
+  border-radius: 4px;
+}
+
+.small {
+  width: 32px;
+  height: 32px;
+  font-size: 14px;
+}
+.medium {
+  width: 48px;
+  height: 48px;
+  font-size: 18px;
+}
+.large {
+  width: 64px;
+  height: 64px;
+  font-size: 22px;
+}
